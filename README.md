@@ -1,3 +1,28 @@
+<h3>This website aims to demonstrate the functionalities of modals and functionality of adding and removing items in the shopping cart, as well as changing the quantity of items.</h3>
+
+<h3>Created the front-end in React Js with back-end in Node Js and database with Mongo DB</h3>
+
+<h2>Shop</h2>
+
+![Image of Shop](https://github.com/LuizCorrea-Dev/olx-front-end/blob/master/public/olx-loja.jpg?raw=true)
+
+<h2>Categories</h2
+  
+![image of Categories](https://github.com/LuizCorrea-Dev/olx-front-end/blob/master/public/olx-categorias.jpg?raw=true)
+
+<h2>Ad</h2
+  
+![image of Ad](https://github.com/LuizCorrea-Dev/olx-front-end/blob/master/public/olx-anuncio.jpg?raw=true)
+
+<h2>Login</h2>
+
+![Image of Login](https://github.com/LuizCorrea-Dev/olx-front-end/blob/master/public/olx-login.jpg?raw=true)
+
+<h2>Post</h2>
+
+![Image of Post](https://github.com/LuizCorrea-Dev/olx-front-end/blob/master/public/olx-post.jpg?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
